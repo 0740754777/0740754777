@@ -1,9 +1,8 @@
 ## Hello world! 👋
 
 <!..This is my repository 
-**0740754777/0740754777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**0740754777/0740754777** is a very _ special _💫 repository because its `README.md` (this file) appears on your GitHub profile 
+Some of the ideas to get started are ✨:
 
 - 🔭 I’m currently working on  web development as my career path 
 - 🌱 I’m currently learning front-end devoloper languages like html,css and JavaScript.
